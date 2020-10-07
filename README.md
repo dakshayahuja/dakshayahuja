@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![](https://github-readme-stats.vercel.app/api?username=dakshayahuja&show_icons=true&theme=onedark&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats) <br>
+![](https://github-readme-stats.vercel.app/api?username=dakshayahuja&show_icons=true&theme=onedark&hide=stars,issues)<br>
 ![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <!--
