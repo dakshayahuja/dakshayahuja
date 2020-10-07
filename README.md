@@ -18,16 +18,16 @@
 <br/>
 <br/>
 -🔭 I’m currently working on Python <br/>
--📫 How to reach me: Instagram - <a href = "https://www.instagram.com/dakshayahuja/">@Dakshay </a>
+-📫 How to reach me: Instagram - <a href = "https://www.instagram.com/dakshayahuja/">@Dakshay </a> <br/>
 - 😄 Pronouns: He/His
 <br/>
+
 ![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 <br/>
 <a href="https://github.com/dakshayahuja">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dakshayahuja&show_icons=true&theme=onedark&hide=stars,issues" alt="Dakshay's github stats"/>
 </a>
-<br/>
-
 
 <!--
 **dakshayahuja/dakshayahuja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
