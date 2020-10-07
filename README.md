@@ -20,10 +20,10 @@
 -🔭 I’m currently working on Python <br/>
 -📫 How to reach me: Instagram - <a href = "https://www.instagram.com/dakshayahuja/">@Dakshay </a> <br/>
 - 😄 Pronouns: He/His
-<br/>
+<br>
 
 ![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
+<br/>
 <br/>
 <a href="https://github.com/dakshayahuja">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dakshayahuja&show_icons=true&theme=onedark&hide=stars,issues" alt="Dakshay's github stats"/>
@@ -39,7 +39,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
--  ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
