@@ -17,8 +17,9 @@
 </a>
 <br/>
 <br/>
--🔭 I’m currently working on Python
--📫 How to reach me: [Twitter - @Dakshay](https://www.instagram.com/dakshayahuja/)
+-🔭 I’m currently working on Python <br/>
+-📫 How to reach me: [Instagram - @Dakshay!](https://www.instagram.com/dakshayahuja/)
+- 😄 Pronouns: He/His
 
 <a href="https://github.com/dakshayahuja">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dakshayahuja&show_icons=true&theme=onedark&hide=stars,issues" alt="Dakshay's github stats"/>
