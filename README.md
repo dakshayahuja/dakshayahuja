@@ -17,9 +17,9 @@
 </a>
 <br/>
 <br/>
--🔭 I’m currently working on Python <br/>
+-⚡I’m currently learning Web Development <br/>
 -📫 How to reach me: Instagram - <a href = "https://www.instagram.com/dakshayahuja/">@Dakshay </a> <br/>
-- 😄 Pronouns: He/His
+-😄 Pronouns: He/His
 <br/>
 <br/>
 
