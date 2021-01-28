@@ -18,7 +18,7 @@
 <br/>
 <br/>
 -⚡I’m currently learning Web Development <br/>
--📫 How to reach me: Instagram - <a href = "https://www.instagram.com/dakshayahuja/">@Dakshay </a> <br/>
+-📫 How to reach me: Twitter - <a href = "https://twitter.com/ahuja_dakshay">@Dakshay </a> <br/>
 -😄 Pronouns: He/His
 <br/>
 <br/>
