@@ -17,13 +17,6 @@
 </a>
 <br/>
 <br/>
--⚡I’m currently learning Web Development <br/>
--📫 How to reach me: Twitter - <a href = "https://twitter.com/ahuja_dakshay">@Dakshay </a> <br/>
--😄 Pronouns: He/His
-<br/>
-<br/>
-
-![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <br/>
 <a href="https://github.com/dakshayahuja">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dakshayahuja&show_icons=true&theme=onedark&hide=stars,issues" alt="Dakshay's github stats"/>
