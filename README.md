@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dakshay Ahuja</h1>
 <h3 align="center">A 3rd year computer science student</h3>
 
-- 🔭 I’m currently working on [SwiftUI Projects](https://github.com/dakshayahuja/Bullseye)
+- 🧑🏻‍💻 I’m currently learning **[Data Science With Python](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python)**
 
-- 🌱 I’m currently learning **iOS Development**
-
-- 👨‍💻 I'm interested in **Data Analysis(Spreadsheets,Sql,Tableau,R)**
+<!-- - 👨‍💻 I'm interested in **Data Science(Spreadsheets,Sql,Tableau,R)** -->
 
 - 📫 How to reach me **dakshayahuja02@gmail.com**
 
