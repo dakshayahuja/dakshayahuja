@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dakshay Ahuja</h1>
 <h3 align="center">A 3rd year computer science student</h3>
 
-- 🧑🏻‍💻 I’m currently learning **[Data Science With Python](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python)**
+- 🧑🏻‍💻 I’m currently learning **React**.
 
 <!-- - 👨‍💻 I'm interested in **Data Science(Spreadsheets,Sql,Tableau,R)** -->
 
 - 📫 How to reach me **dakshayahuja02@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am funny**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
