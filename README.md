@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dakshay Ahuja</h1>
 <h3 align="center">A 3rd year computer science student</h3>
 
-- 🧑🏻‍💻 I’m currently learning **Data Science with Python**.
+- 🧑🏻‍💻 I’m currently learning **Flutter**.
 
 <!-- - 👨‍💻 I'm interested in **Data Science(Spreadsheets,Sql,Tableau,R)** -->
 
