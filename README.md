@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Dakshay Ahuja</h1>
-<h3 align="center">A 3rd year computer science student</h3>
+<h3 align="center">A final year computer science student</h3>
 
-- 🧑🏻‍💻 I’m currently working on **MERN** stack projects. 
-
-<!-- - 👨‍💻 I'm interested in **Data Science(Spreadsheets,Sql,Tableau,R)** -->
+<!-- - 🧑🏻‍💻 I’m currently working on **MERN** stack projects.
+ - 👨‍💻 I'm interested in **Data Science(Spreadsheets,Sql,Tableau,R)** 
 
 - 📫 How to reach me **dakshayahuja02@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**.
 
+-->
 
 <!--
 <h3 align="left">Connect with me:</h3>
