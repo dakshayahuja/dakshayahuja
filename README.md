@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dakshay Ahuja</h1>
-<h3 align="center">A final year computer science student</h3>
+<h3 align="center">A final year computer science student and an aspiring Devops Engineer.</h3>
 
 <!-- - 🧑🏻‍💻 I’m currently working on **MERN** stack projects.
  - 👨‍💻 I'm interested in **Data Science(Spreadsheets,Sql,Tableau,R)** 
