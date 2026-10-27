@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dakshay Ahuja</h1>
+<!-- <h1 align="center">Hi 👋, I'm Dakshay Ahuja</h1> -->
 <!-- <h3 align="center">A final year computer science student.</h3> -->
 <!-- <h3 align="center">A final year computer science student and an aspiring Devops Engineer.</h3> -->
 
