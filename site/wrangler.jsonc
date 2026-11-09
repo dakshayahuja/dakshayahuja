@@ -1,0 +1,11 @@
+{
+  "$schema": "https://unpkg.com/wrangler@4/config-schema.json",
+  "name": "dakshay-home",
+  "account_id": "253ab9d39875e3fd3b42a08a2c9c2b01",
+  "compatibility_date": "2026-11-09",
+  "workers_dev": true,
+  "assets": { "directory": "./public" },
+  "routes": [
+    { "pattern": "dakshayahuja.in/*", "zone_name": "dakshayahuja.in" }
+  ]
+}
