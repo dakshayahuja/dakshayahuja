@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="t d">
+  <title id="t">Dakshay Ahuja, Site Reliability Engineer II at Zeta</title>
+  <desc id="d">A terminal window. whoami prints the name and role. systemctl shows reliability as active. cat now.md says: deep in multi-region disaster recovery for production systems, replication, failover runbooks, and drills until losing a region is boring. A small diagram shows a primary region replicating to a standby region.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#111a2e"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3fb950"/>
+      <stop offset="1" stop-color="#58a6ff"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".035"/>
+    </pattern>
+    <style>
+      text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 19px; fill: #c9d1d9; }
+      .user { fill: #3fb950; font-weight: 600; }
+      .path { fill: #58a6ff; font-weight: 600; }
+      .dim  { fill: #8b949e; }
+      .ok   { fill: #3fb950; }
+      .acc  { fill: #58a6ff; }
+      .warn { fill: #d29922; }
+      .hi   { fill: #f0f6fc; }
+      .name { font-size: 46px; font-weight: 700; fill: #f0f6fc; letter-spacing: 1px; }
+      .role { font-size: 21px; fill: #58a6ff; }
+      .ttl  { font-size: 14px; fill: #8b949e; }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      .pulse { animation: pulse 2s ease-in-out infinite; }
+      .pkt { animation: flow 2.4s ease-in-out infinite; }
+      @keyframes blink { 50% { fill-opacity: 0; } }
+      @keyframes pulse { 50% { fill-opacity: .35; } }
+      @keyframes flow { 0% { transform: translateY(0); opacity: 0; } 15% { opacity: 1; } 85% { opacity: 1; } 100% { transform: translateY(66px); opacity: 0; } }
+      @media (prefers-reduced-motion: reduce) { .cursor, .pulse, .pkt { animation: none; } }
+    </style>
+  </defs>
+
+  <!-- window -->
+  <rect x="1" y="1" width="1198" height="498" rx="14" fill="url(#bg)" stroke="#30363d" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="498" rx="14" fill="url(#grid)"/>
+  <rect x="2" y="2" width="1196" height="42" rx="13" fill="#161b22"/>
+  <rect x="2" y="30" width="1196" height="14" fill="#161b22"/>
+  <line x1="2" y1="44" x2="1198" y2="44" stroke="#30363d" stroke-width="1.5"/>
+  <circle cx="28" cy="23" r="7" fill="#ff5f57"/>
+  <circle cx="52" cy="23" r="7" fill="#febc2e"/>
+  <circle cx="76" cy="23" r="7" fill="#28c840"/>
+  <text x="600" y="28" text-anchor="middle" class="ttl">dakshay@prod: ~ (zsh)</text>
+  <rect x="0" y="496" width="1200" height="4" rx="2" fill="url(#glow)" opacity=".8"/>
+
+  <!-- whoami -->
+  <text x="40" y="88"><tspan class="user">dakshay@prod</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$ </tspan>whoami</text>
+  <text x="40" y="146" class="name">Dakshay Ahuja</text>
+  <text x="40" y="182" class="role">Site Reliability Engineer II @ Zeta</text>
+
+  <!-- systemctl -->
+  <text x="40" y="236"><tspan class="user">dakshay@prod</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$ </tspan>systemctl status reliability</text>
+  <text x="40" y="268"><tspan class="ok pulse">●</tspan> reliability.service<tspan class="dim"> - cloud infrastructure, automation, observability</tspan></text>
+  <text x="140" y="296" text-anchor="end" class="dim">Active:</text>
+  <text x="152" y="296" class="ok">active (running)</text>
+  <text x="400" y="296"><tspan class="dim">Toil: </tspan><tspan class="warn">being automated</tspan></text>
+  <text x="140" y="322" text-anchor="end" class="dim">Pager:</text>
+  <text x="152" y="322" class="acc">quiet, and staying that way</text>
+
+  <!-- now -->
+  <text x="40" y="374"><tspan class="user">dakshay@prod</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$ </tspan>cat now.md</text>
+  <text x="40" y="406" class="hi">Deep in multi-region disaster recovery for production systems:</text>
+  <text x="40" y="434" class="dim">replication, failover runbooks, and drills until losing a region is boring.</text>
+
+  <text x="40" y="474"><tspan class="user">dakshay@prod</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$ </tspan><tspan class="cursor">▋</tspan></text>
+
+  <!-- two-region failover diagram -->
+  <g>
+    <!-- primary region -->
+    <rect x="930" y="84" width="220" height="92" rx="12" fill="#3fb950" fill-opacity=".06" stroke="#3fb950" stroke-opacity=".7" stroke-width="2"/>
+    <text x="950" y="114" style="font-size:15px" class="hi">region-a</text>
+    <text x="1130" y="114" text-anchor="end" style="font-size:13px" class="ok"><tspan class="pulse">●</tspan> primary</text>
+    <g fill="#3fb950" fill-opacity=".55">
+      <rect x="950" y="132" width="34" height="26" rx="5"/><rect x="992" y="132" width="34" height="26" rx="5"/>
+      <rect x="1034" y="132" width="34" height="26" rx="5"/><rect x="1076" y="132" width="34" height="26" rx="5"/>
+    </g>
+
+    <!-- replication link -->
+    <line x1="1040" y1="176" x2="1040" y2="250" stroke="#8b949e" stroke-opacity=".6" stroke-width="2" stroke-dasharray="4 6"/>
+    <circle class="pkt" cx="1040" cy="180" r="5" fill="#58a6ff"/>
+    <text x="1054" y="218" style="font-size:12px" class="dim">replicating</text>
+
+    <!-- standby region -->
+    <rect x="930" y="250" width="220" height="92" rx="12" fill="#58a6ff" fill-opacity=".05" stroke="#58a6ff" stroke-opacity=".6" stroke-width="2" stroke-dasharray="7 6"/>
+    <text x="950" y="280" style="font-size:15px" class="hi">region-b</text>
+    <text x="1130" y="280" text-anchor="end" style="font-size:13px" class="acc">○ standby</text>
+    <g fill="none" stroke="#58a6ff" stroke-opacity=".6" stroke-width="2">
+      <rect x="951" y="299" width="32" height="24" rx="5"/><rect x="993" y="299" width="32" height="24" rx="5"/>
+      <rect x="1035" y="299" width="32" height="24" rx="5"/><rect x="1077" y="299" width="32" height="24" rx="5"/>
+    </g>
+  </g>
+</svg>
